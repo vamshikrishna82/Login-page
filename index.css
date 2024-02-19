@@ -1,0 +1,47 @@
+b*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: black;
+}
+button{
+    background-color:blue;
+    color: white;
+    width: 100px;
+    margin-left: 100px;
+
+}
+#tbradious{
+    border-radius: 5px;
+    padding-left: 8px;
+    height: 25 px;
+}
+#container
+{
+    
+    background-color: gray;
+    width: 500px;
+    height: 250px;
+    padding-left: 50px;
+    border-radius: 25px;
+    margin-top: 250px ;
+    margin-left: 480px ;
+    display: block;
+    position: absolute;
+    box-shadow: 0px 0px 70px 0px rgba(10, 109, 104, 0.728);
+    
+    
+    opacity: 1;
+    
+    
+}
+#container:hover{
+    box-shadow: 0px 0px 25px 10px whitesmoke;
+    cursor:wait;
+    
+}
+#r
+{
+    border-radius: 25px;
+}
